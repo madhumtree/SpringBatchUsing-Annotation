@@ -1,0 +1,15 @@
+com\tivo\metadata\max\model\Program.class
+com\tivo\metadata\max\config\ProgramProccessor.class
+com\tivo\metadata\max\RowMapper\ProgramRowMapper$1.class
+com\tivo\metadata\max\config\MaxJobBeans.class
+com\tivo\metadata\max\config\DBConfig.class
+com\tivo\metadata\max\config\Reader.class
+com\tivo\metadata\max\model\Employee.class
+com\tivo\metadata\max\App.class
+com\tivo\metadata\max\config\BatchConfig.class
+com\tivo\metadata\max\writer\ProgramWriter.class
+com\tivo\metadata\max\tasklets\InsertXumoAssociationTasklet.class
+com\tivo\metadata\max\RowMapper\ProgramRowMapper.class
+com\tivo\metadata\max\tasklets\TruncateXumoAssociationTasklet.class
+com\tivo\metadata\max\config\DBLogProcessor.class
+com\tivo\metadata\max\config\Writerconfig.class
